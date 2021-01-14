@@ -1,5 +1,4 @@
 <h1 align="center">
-  <br>
   <img src="icon.png" alt="Draven Logo" width="100">
   <br>
   Draven for <a href="https://code.visualstudio.com/">Visual Studio Code</a>
