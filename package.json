@@ -1,0 +1,49 @@
+{
+  "name": "draven-theme",
+  "author": "Lucas Alves",
+  "displayName": "Draven",
+  "version": "1.0.0",
+  "description": "A theme to increase developer productivity",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lucalves/draven-theme.git"
+  },
+  "keywords": [
+    "draven",
+    "theme",
+    "color-theme"
+  ],
+  "engines": {
+    "vscode": "^1.52.0"
+  },
+  "categories": [
+      "Themes"
+  ],
+  "contributes": {
+      "themes": [
+          {
+              "label": "Draven Theme",
+              "uiTheme": "vs-dark",
+              "path": "./themes/Draven Theme-color-theme.json"
+          }
+      ]
+  },
+  "activationEvents": [
+    "onLanguage:javascript",
+    "onLanguage:typescript"
+  ],
+  "bugs": {
+    "url": "https://github.com/lucalves/draven-theme/issues"
+  },
+  "galleryBanner": {
+    "color": "#09131b",
+    "theme": "dark"
+  },
+  "icon": "images/icon.png",
+  "homepage": "https://github.com/lucalves/draven-theme#readme"
+}
