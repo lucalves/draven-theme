@@ -6,7 +6,6 @@
   "description": "A theme to increase developer productivity",
   "publisher": "lucalves",
   "license": "MIT",
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -23,16 +22,16 @@
     "vscode": "^1.52.0"
   },
   "categories": [
-      "Themes"
+    "Themes"
   ],
   "contributes": {
-      "themes": [
-          {
-              "label": "Draven Theme",
-              "uiTheme": "vs-dark",
-              "path": "./themes/Draven Theme-color-theme.json"
-          }
-      ]
+    "themes": [
+      {
+        "label": "Draven Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Draven Theme-color-theme.json"
+      }
+    ]
   },
   "activationEvents": [
     "onLanguage:javascript",
