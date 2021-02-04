@@ -2,8 +2,9 @@
   "name": "draven-theme",
   "author": "Lucas Alves",
   "displayName": "Draven",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A theme to increase developer productivity",
+  "publisher": "lucalves",
   "license": "MIT",
   "main": "index.js",
   "scripts": {
