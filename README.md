@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="images/icon.png" alt="Draven Logo" width="100">
+  <img src="https://user-images.githubusercontent.com/17712401/106828858-bccbbc80-6669-11eb-85e4-23a779a48d2a.png" alt="Draven Logo" width="100">
   <br>
   Draven for <a href="https://code.visualstudio.com/">Visual Studio Code</a>
   <br>
@@ -16,7 +16,7 @@
 </p>
 
 <h1 align="center">
-  <img src="images/draven-theme.png" alt="Draven Theme">
+  <img src="https://user-images.githubusercontent.com/17712401/106828887-c9e8ab80-6669-11eb-8c31-313138c8e5ba.png" alt="Draven Theme">
 </h1>
 
 ## Install
