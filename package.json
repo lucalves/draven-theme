@@ -35,7 +35,9 @@
   },
   "activationEvents": [
     "onLanguage:javascript",
-    "onLanguage:typescript"
+    "onLanguage:typescript",
+	"onLanguage:python",
+	"onLanguage:dart"
   ],
   "bugs": {
     "url": "https://github.com/lucalves/draven-theme/issues"
