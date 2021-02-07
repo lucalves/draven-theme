@@ -11,7 +11,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/PRs-welcome-%235FCC6F.svg" alt="PRs welcome!" />
-  [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%235FCC6F">
 </p>
 
