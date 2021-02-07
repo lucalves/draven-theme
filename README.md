@@ -1,4 +1,7 @@
 <h1 align="center">
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
   <img src="https://user-images.githubusercontent.com/17712401/106828858-bccbbc80-6669-11eb-85e4-23a779a48d2a.png" alt="Draven Logo" width="100">
   <br>
   Draven for <a href="https://code.visualstudio.com/">Visual Studio Code</a>
@@ -36,3 +39,23 @@ Run Visual Studio Code. The Draven theme will be available from `File -> Prefere
 ## License
 
 This project has the [MIT license](LICENSE).
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="http://lucalves.me/"><img src="https://avatars.githubusercontent.com/u/17712401?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Lucas Alves</b></sub></a><br /><a href="https://github.com/lucalves/draven-theme/pulls?q=is%3Apr+reviewed-by%3Alucalves" title="Reviewed Pull Requests">👀</a> <a href="https://github.com/lucalves/draven-theme/commits?author=lucalves" title="Documentation">📖</a> <a href="https://github.com/lucalves/draven-theme/commits?author=lucalves" title="Code">💻</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
