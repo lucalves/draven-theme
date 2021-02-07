@@ -1,0 +1,26 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "lucalves",
+      "name": "Lucas Alves",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17712401?v=4",
+      "profile": "http://lucalves.me/",
+      "contributions": [
+        "review",
+        "doc",
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "draven-theme",
+  "projectOwner": "lucalves",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
