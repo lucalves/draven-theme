@@ -2,8 +2,14 @@
 
 All notable changes to the "draven-theme" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## [1.0.0]
 
-## [Unreleased]
+- Initial version supporting typescript and javascript
 
-- Initial release
+## [1.0.1]
+
+- Alter in readme screenshots
+
+## [1.0.2]
+
+- Including minor code improvements
