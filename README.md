@@ -1,7 +1,4 @@
 <h1 align="center">
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
   <img src="https://user-images.githubusercontent.com/17712401/106828858-bccbbc80-6669-11eb-85e4-23a779a48d2a.png" alt="Draven Logo" width="100">
   <br>
   Draven for <a href="https://code.visualstudio.com/">Visual Studio Code</a>
@@ -14,7 +11,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/PRs-welcome-%235FCC6F.svg" alt="PRs welcome!" />
-
+  [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%235FCC6F">
 </p>
 
