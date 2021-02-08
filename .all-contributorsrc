@@ -15,6 +15,15 @@
         "doc",
         "code"
       ]
+    },
+    {
+      "login": "mateusalexandre",
+      "name": "Mateus Alexandre",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17730409?v=4",
+      "profile": "https://github.com/mateusalexandre",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
