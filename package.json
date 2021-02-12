@@ -37,7 +37,8 @@
     "onLanguage:javascript",
     "onLanguage:typescript",
     "onLanguage:python",
-    "onLanguage:dart"
+    "onLanguage:dart",
+    "onLanguage:ruby"
   ],
   "bugs": {
     "url": "https://github.com/lucalves/draven-theme/issues"
