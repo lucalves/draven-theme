@@ -12,6 +12,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/PRs-welcome-%235FCC6F.svg" alt="PRs welcome!" />
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%235FCC6F">
+  <img alt="Visual Studio Marketplace" src="https://vsmarketplacebadge.apphb.com/downloads-short/lucalves.draven-theme.svg?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=lucalves.draven-theme">
 </p>
 
 <h1 align="center">
