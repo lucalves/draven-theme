@@ -41,6 +41,7 @@
     "onLanguage:ruby",
     "onLanguage:html",
     "onLanguage:css",
+    "onLanguage:php",
   ],
   "bugs": {
     "url": "https://github.com/lucalves/draven-theme/issues"
