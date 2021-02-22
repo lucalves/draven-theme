@@ -7,6 +7,7 @@
   "publisher": "lucalves",
   "license": "MIT",
   "scripts": {
+    "yarn": "yarn install",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
