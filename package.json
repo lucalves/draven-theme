@@ -2,12 +2,13 @@
   "name": "draven-theme",
   "author": "Lucas Alves",
   "displayName": "Draven Theme",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A theme to increase developer productivity",
   "publisher": "lucalves",
   "license": "MIT",
+  "main": "index.js",
   "scripts": {
-    "yarn": "yarn install",
+    "yarn": "yarn install"
   },
   "repository": {
     "type": "git",
@@ -43,7 +44,7 @@
     "onLanguage:css",
     "onLanguage:php",
     "onLanguage:java",
-    "onLnaguage:swift
+    "onLanguage:swift"
   ],
   "bugs": {
     "url": "https://github.com/lucalves/draven-theme/issues"
