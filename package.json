@@ -45,7 +45,8 @@
     "onLanguage:php",
     "onLanguage:java",
     "onLanguage:swift",
-    "onLanguage:markdown"
+    "onLanguage:markdown",
+    "onLanguage:kotlin"
   ],
   "bugs": {
     "url": "https://github.com/lucalves/draven-theme/issues"
