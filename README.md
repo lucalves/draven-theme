@@ -10,9 +10,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PRs-welcome-%235FCC6F.svg" alt="PRs welcome!" />
-  <img alt="GitHub Stars" src="https://img.shields.io/github/stars/lucalves/draven-theme?color=brightgreen">
-  <img alt="Visual Studio Marketplace" src="https://vsmarketplacebadge.apphb.com/downloads-short/lucalves.draven-theme.svg?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=lucalves.draven-theme">
+  <img src="https://img.shields.io/badge/PRs-welcome-blue" alt="PRs welcome!" />
+  <img alt="GitHub Stars" src="https://img.shields.io/github/stars/lucalves/draven-theme?color=blue">
+  <img alt="Visual Studio Marketplace" src="https://vsmarketplacebadge.apphb.com/downloads-short/lucalves.draven-theme.svg?color=blue?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=lucalves.draven-theme">
 </p>
 
 <h1 align="center">
