@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">
-  Draven is a <strong>dark theme</strong> for Visual Studio Code.
+  Draven is a <strong>dark</strong> beautiful <strong>theme</strong> for Visual Studio Code.
 </p>
 
 <p align="center">
