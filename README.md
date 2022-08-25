@@ -21,17 +21,20 @@
 
 ## Install
 
-### Install using Command Palette
+Install using Command Palette
 
 1.  Go to `View -> Command Palette` or press `Ctrl+Shift+P`;
 2.  Then enter `Install Extension`;
 3.  Write `Draven Theme`;
 4.  Select it or press `Enter` to install.
 
-### Activate theme
+Activate theme
 
 Run Visual Studio Code. The Draven theme will be available from `File -> Preferences -> Color Theme` dropdown menu.
 
+## How to contribute?
+
+Find an Issue and open a Pull Request to help, check them [here](https://github.com/lucalves/draven-theme/issues). If you have a feature/bug report consider [creating an Issue](https://github.com/lucalves/draven-theme/issues/new).
 
 ## License
 
