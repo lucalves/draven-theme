@@ -48,12 +48,18 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 <table>
-  <tr>
-    <td align="center"><a href="http://lucalves.me/"><img src="https://avatars.githubusercontent.com/u/17712401?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Lucas Alves</b></sub></a><br /><a href="https://github.com/lucalves/draven-theme/pulls?q=is%3Apr+reviewed-by%3Alucalves" title="Reviewed Pull Requests">👀</a> <a href="https://github.com/lucalves/draven-theme/commits?author=lucalves" title="Documentation">📖</a> <a href="https://github.com/lucalves/draven-theme/commits?author=lucalves" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/mateusalexandre"><img src="https://avatars.githubusercontent.com/u/17730409?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Mateus Alexandre</b></sub></a><br /><a href="https://github.com/lucalves/draven-theme/commits?author=mateusalexandre" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/pedbarros"><img src="https://avatars.githubusercontent.com/u/8016152?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Pedro Barros</b></sub></a><br /><a href="https://github.com/lucalves/draven-theme/commits?author=pedbarros" title="Code">💻</a></td>
-    <td align="center"><a href="http://www.ramadevsign.com"><img src="https://avatars.githubusercontent.com/u/50571688?v=4?s=100" width="100px;" alt=""/><br /><sub><b>ramadevsign</b></sub></a><br /><a href="https://github.com/lucalves/draven-theme/commits?author=orama254" title="Documentation">📖</a></td>
-  </tr>
+  <tbody>
+    <tr>
+      <td align="center"><a href="http://lucalves.me/"><img src="https://avatars.githubusercontent.com/u/17712401?v=4?s=100" width="100px;" alt="Lucas Alves"/><br /><sub><b>Lucas Alves</b></sub></a><br /><a href="https://github.com/lucalves/draven-theme/pulls?q=is%3Apr+reviewed-by%3Alucalves" title="Reviewed Pull Requests">👀</a> <a href="https://github.com/lucalves/draven-theme/commits?author=lucalves" title="Documentation">📖</a> <a href="https://github.com/lucalves/draven-theme/commits?author=lucalves" title="Code">💻</a></td>
+      <td align="center"><a href="https://github.com/mateusalexandre"><img src="https://avatars.githubusercontent.com/u/17730409?v=4?s=100" width="100px;" alt="Mateus Alexandre"/><br /><sub><b>Mateus Alexandre</b></sub></a><br /><a href="https://github.com/lucalves/draven-theme/commits?author=mateusalexandre" title="Code">💻</a></td>
+      <td align="center"><a href="https://github.com/pedbarros"><img src="https://avatars.githubusercontent.com/u/8016152?v=4?s=100" width="100px;" alt="Pedro Barros"/><br /><sub><b>Pedro Barros</b></sub></a><br /><a href="https://github.com/lucalves/draven-theme/commits?author=pedbarros" title="Code">💻</a></td>
+      <td align="center"><a href="http://www.ramadevsign.com"><img src="https://avatars.githubusercontent.com/u/50571688?v=4?s=100" width="100px;" alt="ramadevsign"/><br /><sub><b>ramadevsign</b></sub></a><br /><a href="https://github.com/lucalves/draven-theme/commits?author=orama254" title="Documentation">📖</a></td>
+      <td align="center"><a href="https://github.com/nebocoder"><img src="https://avatars.githubusercontent.com/u/91620216?v=4?s=100" width="100px;" alt="nebocoder"/><br /><sub><b>nebocoder</b></sub></a><br /><a href="https://github.com/lucalves/draven-theme/commits?author=nebocoder" title="Documentation">📖</a></td>
+    </tr>
+  </tbody>
+  <tfoot>
+    
+  </tfoot>
 </table>
 
 <!-- markdownlint-restore -->
