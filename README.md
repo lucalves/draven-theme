@@ -11,7 +11,6 @@
 
 <p align="center">
   <img alt="GitHub Stars" src="https://img.shields.io/github/stars/lucalves/draven-theme?color=blue">
-  <img alt="Visual Studio Marketplace" src="https://vsmarketplacebadge.apphb.com/downloads-short/lucalves.draven-theme.svg?color=blue?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=lucalves.draven-theme">
   <a href="https://marketplace.visualstudio.com/items?itemName=lucalves.draven-theme" target="_blank"><img alt="Marketplace" src="https://img.shields.io/badge/install-on%20marketplace-blue"></a>
 </p>
 
