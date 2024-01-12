@@ -10,6 +10,7 @@
 </p>
 
 <p align="center">
+  <img alt="Archived" src="https://img.shields.io/badge/status-archived-red">
   <img alt="GitHub Stars" src="https://img.shields.io/github/stars/lucalves/draven-theme?color=blue">
   <a href="https://marketplace.visualstudio.com/items?itemName=lucalves.draven-theme" target="_blank"><img alt="Marketplace" src="https://img.shields.io/badge/install-on%20marketplace-blue"></a>
 </p>
